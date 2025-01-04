@@ -1,6 +1,6 @@
 # BlockX Lists
 
-This repository contains the default BlockList for the Resonite [BlockX](https://github.com/jae1911/BlockX-Lists) mod.
+This repository contains the default BlockList for the Resonite [BlockX](https://github.com/jae1911/BlockX) mod.
 
 ## Guidelines
 
