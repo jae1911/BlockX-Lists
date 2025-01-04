@@ -1,0 +1,8 @@
+# This is comment
+# Asset signature to block:
+d8f42c9ee9af31a2671f6f00773d8e2bc7a808596d195725b61e0d8e4b349e48
+# Test items from world
+# https://go.resonite.com/record/U-j4/R-daa15fc6-c28f-475a-a124-e34b4ba18c68
+02c94c77b4d341f5a7b2820dec16053d62ca2b72440d8aada1000a18c35d457e
+9ce5db4c76205fac22264e8248e4085784fb4c942c61117ca31b728bd1803036
+dummy.65818580.xyz/maned.jpg

@@ -1,0 +1,28 @@
+name: "BL Removal"
+description: "Remove an asset from the blocklist."
+body:
+  - type: input
+    id: assetsig
+    attributes:
+      label: "Asset signature"
+      description: "Signature of the asset, d8f42c9ee9af31a2671f6f00773d8e2bc7a808596d195725b61e0d8e4b349e48 for instance."
+      placeholder: "d8f42c9ee9af31a2671f6f00773d8e2bc7a808596d195725b61e0d8e4b349e48"
+  - type: input
+    id: assetlink
+    attributes:
+      label: "Link to asset"
+      description: "World/item in which the asset is present."
+      placeholder: "https://go.resonite.com/record/U-j4/R-daa15fc6-c28f-475a-a124-e34b4ba18c68"
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional context"
+      description: "Why you think this should be removed."
+  - type: checkboxes
+    id: understood
+    attributes:
+      label: "I read, understood and accepted the guidelines"
+      description: "You can find the guidelines [by clicking here]()"
+      option:
+      - label: "I accept"
+        required: true
