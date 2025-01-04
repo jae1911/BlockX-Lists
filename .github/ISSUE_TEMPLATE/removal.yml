@@ -23,6 +23,6 @@ body:
     attributes:
       label: "I read, understood and accepted the guidelines"
       description: "You can find the guidelines [by clicking here](https://github.com/jae1911/BlockX-Lists?tab=readme-ov-file#guidelines)"
-      option:
+      options:
       - label: "I accept"
         required: true
